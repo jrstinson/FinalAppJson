@@ -1,102 +1,104 @@
-[
-  {
-    "_id": "5cd718366e614ceb1165bef7",
-    "name": "Lord Sawyer Petersen",
-    "knights": [
-      {
-        "id": 0,
-        "name": "Sir Cervantes Brady"
-      }
-    ]
-  },
-  {
-    "_id": "5cd718360bf107648c887c27",
-    "name": "Lord Buchanan Welch",
-    "knights": [
-      {
-        "id": 0,
-        "name": "Sir Schneider Savage"
-      }
-    ]
-  },
-  {
-    "_id": "5cd71836015a27b0a35f1d83",
-    "name": "Lord Hunt Goff",
-    "knights": [
-      {
-        "id": 0,
-        "name": "Sir Jillian Blackburn"
-      }
-    ]
-  },
-  {
-    "_id": "5cd71836369fca8df2ca796a",
-    "name": "Lord Christa Roberson",
-    "knights": [
-      {
-        "id": 0,
-        "name": "Sir Nadia Rich"
-      }
-    ]
-  },
-  {
-    "_id": "5cd71836d59d83ea5bccc92e",
-    "name": "Lord Casandra Browning",
-    "knights": [
-      {
-        "id": 0,
-        "name": "Sir Johnnie Short"
-      }
-    ]
-  },
-  {
-    "_id": "5cd71836269868a53e20b5dd",
-    "name": "Lord Mercado Morse",
-    "knights": [
-      {
-        "id": 0,
-        "name": "Sir Drake Wilder"
-      }
-    ]
-  },
-  {
-    "_id": "5cd71836c2b88da38287662d",
-    "name": "Lord Carver Tucker",
-    "knights": [
-      {
-        "id": 0,
-        "name": "Sir Vargas Christensen"
-      }
-    ]
-  },
-  {
-    "_id": "5cd718367c626036c49229da",
-    "name": "Lord Willa Hensley",
-    "knights": [
-      {
-        "id": 0,
-        "name": "Sir Lorraine Dominguez"
-      }
-    ]
-  },
-  {
-    "_id": "5cd718362dc899e9a38b50fb",
-    "name": "Lord Charity Ballard",
-    "knights": [
-      {
-        "id": 0,
-        "name": "Sir Edwards Rodriguez"
-      }
-    ]
-  },
-  {
-    "_id": "5cd718368e5e85bf5e3312b5",
-    "name": "Lord Marjorie Massey",
-    "knights": [
-      {
-        "id": 0,
-        "name": "Sir Alford Hancock"
-      }
-    ]
-  }
-]
+{
+  "lords": [
+    {
+      "_id": "5cd718366e614ceb1165bef7",
+      "name": "Lord Sawyer Petersen",
+      "knights": [
+        {
+          "id": 0,
+          "name": "Sir Cervantes Brady"
+        }
+      ]
+    },
+    {
+      "_id": "5cd718360bf107648c887c27",
+      "name": "Lord Buchanan Welch",
+      "knights": [
+        {
+          "id": 0,
+          "name": "Sir Schneider Savage"
+        }
+      ]
+    },
+    {
+      "_id": "5cd71836015a27b0a35f1d83",
+      "name": "Lord Hunt Goff",
+      "knights": [
+        {
+          "id": 0,
+          "name": "Sir Jillian Blackburn"
+        }
+      ]
+    },
+    {
+      "_id": "5cd71836369fca8df2ca796a",
+      "name": "Lord Christa Roberson",
+      "knights": [
+        {
+          "id": 0,
+          "name": "Sir Nadia Rich"
+        }
+      ]
+    },
+    {
+      "_id": "5cd71836d59d83ea5bccc92e",
+      "name": "Lord Casandra Browning",
+      "knights": [
+        {
+          "id": 0,
+          "name": "Sir Johnnie Short"
+        }
+      ]
+    },
+    {
+      "_id": "5cd71836269868a53e20b5dd",
+      "name": "Lord Mercado Morse",
+      "knights": [
+        {
+          "id": 0,
+          "name": "Sir Drake Wilder"
+        }
+      ]
+    },
+    {
+      "_id": "5cd71836c2b88da38287662d",
+      "name": "Lord Carver Tucker",
+      "knights": [
+        {
+          "id": 0,
+          "name": "Sir Vargas Christensen"
+        }
+      ]
+    },
+    {
+      "_id": "5cd718367c626036c49229da",
+      "name": "Lord Willa Hensley",
+      "knights": [
+        {
+          "id": 0,
+          "name": "Sir Lorraine Dominguez"
+        }
+      ]
+    },
+    {
+      "_id": "5cd718362dc899e9a38b50fb",
+      "name": "Lord Charity Ballard",
+      "knights": [
+        {
+          "id": 0,
+          "name": "Sir Edwards Rodriguez"
+        }
+      ]
+    },
+    { 
+      "_id": "5cd718368e5e85bf5e3312b5",
+      "name": "Lord Marjorie Massey",
+      "knights": [
+        {
+          "id": 0,
+          "name": "Sir Alford Hancock"
+        }
+      ]
+    }
+  ]
+}
