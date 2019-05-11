@@ -1,42 +1,42 @@
 {
-  "lords": [
+  "lords" : [
     {
-      "_id": "5cd718366e614ceb1165bef7",
-      "name": "Lord Sawyer Petersen",
-      "knights": [
+      "_id" : "5cd718366e614ceb1165bef7",
+      "name" : "Lord Sawyer Petersen",
+      "knights" : [
         {
-          "id": 0,
-          "name": "Sir Cervantes Brady"
+          "id" : 0,
+          "name" : "Sir Cervantes Brady"
         }
       ]
     },
     {
-      "_id": "5cd718360bf107648c887c27",
-      "name": "Lord Buchanan Welch",
-      "knights": [
+      "_id" : "5cd718360bf107648c887c27",
+      "name" : "Lord Buchanan Welch",
+      "knights" : [
         {
-          "id": 0,
-          "name": "Sir Schneider Savage"
+          "id" : 0,
+          "name" : "Sir Schneider Savage"
         }
       ]
     },
     {
-      "_id": "5cd71836015a27b0a35f1d83",
-      "name": "Lord Hunt Goff",
-      "knights": [
+      "_id" : "5cd71836015a27b0a35f1d83",
+      "name" : "Lord Hunt Goff",
+      "knights" : [
         {
-          "id": 0,
-          "name": "Sir Jillian Blackburn"
+          "id" : 0,
+          "name" : "Sir Jillian Blackburn"
         }
       ]
     },
     {
-      "_id": "5cd71836369fca8df2ca796a",
-      "name": "Lord Christa Roberson",
-      "knights": [
+      "_id" : "5cd71836369fca8df2ca796a",
+      "name" : "Lord Christa Roberson",
+      "knights" : [
         {
-          "id": 0,
-          "name": "Sir Nadia Rich"
+          "id" : 0,
+          "name" : "Sir Nadia Rich"
         }
       ]
     },
