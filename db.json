@@ -1,7 +1,7 @@
 {
   "lords" : [
     {
-      "_id" : "5cd718366e614ceb1165bef7",
+      "_id" : "1",
       "name" : "Lord Sawyer Petersen",
       "knights" : [
         {
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "_id" : "5cd718360bf107648c887c27",
+      "_id" : "2",
       "name" : "Lord Buchanan Welch",
       "knights" : [
         {
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "_id" : "5cd71836015a27b0a35f1d83",
+      "_id" : "2",
       "name" : "Lord Hunt Goff",
       "knights" : [
         {
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "_id": "5cd71836d59d83ea5bccc92e",
+      "_id": "3",
       "name": "Lord Casandra Browning",
       "knights": [
         {
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "_id": "5cd71836269868a53e20b5dd",
+      "_id": "4",
       "name": "Lord Mercado Morse",
       "knights": [
         {
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "_id": "5cd71836c2b88da38287662d",
+      "_id": "5",
       "name": "Lord Carver Tucker",
       "knights": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "_id": "5cd718367c626036c49229da",
+      "_id": "6",
       "name": "Lord Willa Hensley",
       "knights": [
         {
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "_id": "5cd718362dc899e9a38b50fb",
+      "_id": "7",
       "name": "Lord Charity Ballard",
       "knights": [
         {
@@ -91,7 +91,7 @@
       ]
     },
     { 
-      "_id": "5cd718368e5e85bf5e3312b5",
+      "_id": "8",
       "name": "Lord Marjorie Massey",
       "knights": [
         {
